@@ -4,7 +4,7 @@ public class Child extends Parent{
 	
 	//Overriding
 	public static int displayMyLuckyNumber() {		
-		return 100;
+		return 1001;
 	}
 	
 
